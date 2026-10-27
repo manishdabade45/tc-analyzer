@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 # 🛡️ Terms & Conditions Analyzer — Real-Life Edition
 
-**Author:** Chaitanya  
-**PRN:** 124B1C108  
-**Programme:** B.Tech CSE (AI & ML)  
 **Project:** NLP Mini Project — Streamlit Web Application
 
 A consumer-focused NLP application that automatically analyzes dense Terms of Service, Privacy Policies, and End-User License Agreements (EULAs) to detect hidden consumer traps, auto-billing, data selling, and rights waivers.
@@ -44,7 +40,7 @@ A consumer-focused NLP application that automatically analyzes dense Terms of Se
 
 ```powershell
 # 1. Clone repository
-git clone https://github.com/The-Chaitanya/tc-analyzer.git
+git clone https://github.com/manishdabade45/tc-analyzer.git
 cd tc-analyzer
 
 # 2. Create virtual environment
@@ -57,6 +53,3 @@ pip install -r requirements.txt
 # 4. Run the app
 streamlit run app.py
 ```
-=======
-# tc-analyzer
->>>>>>> d081a23cea0c7fb05b1f89b40292dc510906aeb0

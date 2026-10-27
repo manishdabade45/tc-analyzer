@@ -1,8 +1,5 @@
 # Terms & Conditions Analyzer
 
-**Name:** Chaitanya  
-**PRN:** 124B1C108  
-**Programme:** B.Tech CSE (AI & ML)  
 **Project type:** NLP mini project — Streamlit web application
 
 ## 1. What you receive

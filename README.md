@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ Terms & Conditions Analyzer — Real-Life Edition
 
 **Author:** Chaitanya  
@@ -56,3 +57,6 @@ pip install -r requirements.txt
 # 4. Run the app
 streamlit run app.py
 ```
+=======
+# tc-analyzer
+>>>>>>> d081a23cea0c7fb05b1f89b40292dc510906aeb0
